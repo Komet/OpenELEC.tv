@@ -19,12 +19,12 @@
 ################################################################################
 
 PKG_NAME="xbmc-pvr-addons"
-PKG_VERSION="590f862"
+PKG_VERSION="d803b06"
 PKG_REV="1"
 PKG_ARCH="any"
 PKG_LICENSE="GPL"
-PKG_SITE="https://github.com/opdenkamp/xbmc-pvr-addons"
-PKG_URL="$DISTRO_SRC/$PKG_NAME-$PKG_VERSION.tar.xz"
+PKG_SITE="https://github.com/FernetMenta/xbmc-pvr-addons"
+PKG_URL="http://home.kvibes.de/$PKG_NAME-$PKG_VERSION.tar.xz"
 PKG_DEPENDS="curl"
 PKG_BUILD_DEPENDS="toolchain curl"
 PKG_PRIORITY="optional"
