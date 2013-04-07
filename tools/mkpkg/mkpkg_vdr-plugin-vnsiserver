@@ -21,7 +21,7 @@
 
 echo "getting sources..."
   if [ ! -d vdr-plugin-vnsiserver.git ]; then
-    git clone git://github.com/opdenkamp/xbmc-pvr-addons.git vdr-plugin-vnsiserver.git
+    git clone git://github.com/FernetMenta/xbmc-pvr-addons.git -b frodo vdr-plugin-vnsiserver.git
   fi
 
   cd vdr-plugin-vnsiserver.git
