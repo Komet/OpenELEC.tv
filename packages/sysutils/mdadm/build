@@ -25,4 +25,3 @@
 cd $PKG_BUILD
 make CC="${TARGET_PREFIX}gcc"
 
-$MAKEINSTALL
